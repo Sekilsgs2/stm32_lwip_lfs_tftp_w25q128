@@ -1,0 +1,10 @@
+spitest\lfs.o: ..\Drivers\llfs\lfs.c
+spitest\lfs.o: ..\Drivers\llfs\lfs.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
+spitest\lfs.o: ..\Drivers\llfs\lfs_util.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+spitest\lfs.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\inttypes.h
